@@ -27,9 +27,9 @@ The code flow is explained breifly in the steps below:
 ### Sample I/O
 
 Enter pokemon name to access its Fitness Profile or STOP to exit:<br />
-snorlax
-Pokemon Name: snorlax
-Fitness Level: Obese
+snorlax<br />
+Pokemon Name: snorlax<br />
+Fitness Level: Obese<br />
 Exercises Suggested: Slow Walking/ Swimming
 Remarks: You need to work hard towards a healthier lifestyle!
 
