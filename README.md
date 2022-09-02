@@ -20,7 +20,7 @@ The code flow is explained breifly in the steps below:
 1) First we get the names of pokemons(say 500) and then using /pokemon/{name} we get access to its profile.
 2) We store its weight, height and then calculate its BMI.
 3) We also store its 'type' is another table. Its stored in another table as its 1:m relation, thus we need to normalise the table.
-4) We sort the dataframe using BMI as the key, do some analytics( check out Analysis.ipynb ) such as line grapb of BMI's and boxplot to get the mean and outliers.
+4) We sort the dataframe using BMI as the key, do some analytics( check out Analysis.ipynb ) such as line graph of BMI's and boxplot to get the mean and outliers.
 5) Using some basic filters we categorize the pokemon into obese, overweight, healthy or underweight.
 6) We encourage the pokemons to adopt healthier lifestyle.
 
