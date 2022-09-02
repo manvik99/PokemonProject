@@ -9,7 +9,7 @@ I've been writing code for about 20 months
 
 To run the project follow the steps below:
 
-1) Create a virtual env and install the dependencies using pip install -r requirements.txt
+1) Create a virtual env and install the dependencies using pip install -r requirements.txt ( Dependencies needed: requests, pandas, matplotlib )
 2) Run the command: python .\main.py
 3) Enter the pokemon Name and get access to its fitness profile and suggested workout plans
 
