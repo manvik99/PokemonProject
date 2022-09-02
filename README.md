@@ -26,7 +26,7 @@ The code flow is explained breifly in the steps below:
 
 ### Sample I/O
 
-Enter pokemon name to access its Fitness Profile or STOP to exit:
+Enter pokemon name to access its Fitness Profile or STOP to exit:<br />
 snorlax
 Pokemon Name: snorlax
 Fitness Level: Obese
