@@ -26,19 +26,19 @@ The code flow is explained breifly in the steps below:
 
 ### Sample I/O
 
-Enter pokemon name to access its Fitness Profile or STOP to exit:<br />
-snorlax<br />
-Pokemon Name: snorlax<br />
-Fitness Level: Obese<br />
-Exercises Suggested: Slow Walking/ Swimming
-Remarks: You need to work hard towards a healthier lifestyle!
+Enter pokemon name to access its Fitness Profile or STOP to exit: <br />
+snorlax <br />
+Pokemon Name: snorlax <br />
+Fitness Level: Obese <br />
+Exercises Suggested: Slow Walking/ Swimming <br />
+Remarks: You need to work hard towards a healthier lifestyle! <br />
 
-Enter pokemon name to access its Fitness Profile or STOP to exit:
-pikachu
-Pokemon Name: pikachu
-Fitness Level: Healthy
-Exercises Suggested: Running/ Sports/ Mountain Climbing
-Remarks: Keep it up, being healthy is a journey!
+Enter pokemon name to access its Fitness Profile or STOP to exit: <br />
+pikachu <br />
+Pokemon Name: pikachu <br />
+Fitness Level: Healthy <br />
+Exercises Suggested: Running/ Sports/ Mountain Climbing <br />
+Remarks: Keep it up, being healthy is a journey! <br />
 
 ### Future Scope
 
